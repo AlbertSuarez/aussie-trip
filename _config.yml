@@ -1,22 +1,21 @@
 # Profile information
-name: Fresh
-title: Fresh - Free Jekyll Theme
+name: Aussie Trip
+title: Aussie Trip - Blog sobre les meves aventures a Australia
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Moltes històries, imatges i anecdotes que havien de ser plasmades en un sol lloc.
+  Aquest lloc permetrà recordar tot el succedit durant aquests vuit mesos a les antípodes.
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
-url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aussie-trip" # the subpath of your site, e.g. /blog
+url: "albertsuarez.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
-facebook: #Add your Facebook
-twitter: #Add your Twitter
-google-plus: #Add your Google+
-github: #Add your Github
+facebook: suaarezz
+twitter: alsumo95
+google-plus: +AlbertSuárezMolgó
+github: AlbertSuarez
 
 # Contact form
-email: #your-email@domain.com
+email: alsumo95@gmail.com
 
 # Comments
 discus-identifier: # Add your Disqus identifier
