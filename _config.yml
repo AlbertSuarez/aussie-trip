@@ -13,14 +13,14 @@ url: "albertsuarez.me" # the base hostname & protocol for your site, e.g. http:/
 # Social
 facebook: suaarezz
 twitter: alsumo95
-instagram: albert.suarezz
+instagram: al
 github: AlbertSuarez
 
 # Analytics
 analytics: UA-110581543-1
 
 # Comments
-discus-identifier: albertsuarez-me
+discus-identifier: # Add your Disqus identifier
 
 # Paginate
 paginate: 5
