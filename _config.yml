@@ -2,8 +2,10 @@
 name: Aussie Trip
 title: Aussie Trip - Blog sobre les meves aventures a Australia
 description: > # this means to ignore newlines until "baseurl:"
-  Moltes històries, imatges i anecdotes que havien de ser plasmades en un sol lloc.
-  Aquest lloc permetrà recordar tot el succedit durant aquests vuit mesos a les antípodes.
+  Moltes històries, imatges i anècdotes que havien de ser plasmades en un sol lloc.
+  Un lloc que permetrà recordar tot el succeït durant aquests vuit mesos a aquest país.
+  Un país enorme i inexplorat ple d'aventures a explicar en aquest blog.
+  Passin i vegin.
 permalink: ':title/'
 baseurl: "/aussie-trip" # the subpath of your site, e.g. /blog
 url: "albertsuarez.me" # the base hostname & protocol for your site, e.g. http://example.com
@@ -14,8 +16,8 @@ twitter: alsumo95
 google-plus: +AlbertSuárezMolgó
 github: AlbertSuarez
 
-# Contact form
-email: alsumo95@gmail.com
+# Analytics
+analytics: UA-110581543-1
 
 # Comments
 discus-identifier: # Add your Disqus identifier
